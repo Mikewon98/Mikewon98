@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5622AQFVZvSkNZEYyA/feedshare-shrink_2048_1536/0/1681311741903?e=2147483647&v=beta&t=oYSyqIcYdzSOw-wAO2Ig6WSp48WVZ7T1SkRRnL-UEwE)
+
 
 <h1 align="center">Hi There👋, I'm Michael Wondwossen</h1>
 <h3 align="center">A passionate Mobile App and Website Developer from Ethiopia</h3>
